@@ -26,3 +26,9 @@ session_start();
         <a><input type="submit" value="Logout"></a>
     </form>
 </body>
+
+<main>
+  <a href="newuser.php">Create New User<a>
+    
+</main>    
+  
